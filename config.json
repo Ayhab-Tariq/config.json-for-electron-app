@@ -2,7 +2,7 @@
   "licenseRequired": false,
   "useBackendAPI": false,
   "backendURL": "",
-  "maintenance": true,
+  "maintenance": false,
   "maintenanceMessage": "Server in maintenance. Please wait.",
   "minVersion": "1.0.0",
   "contactAdmin": "ayhabtariq27@gmail.com"
