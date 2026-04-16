@@ -1,5 +1,5 @@
 {
-  "licenseRequired": true,
+  "licenseRequired": false,
   "useBackendAPI": false,
   "backendURL": "",
   "maintenance": false,
